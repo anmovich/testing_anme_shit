@@ -3,7 +3,7 @@
 int count(int a, int b) { return a * b; }
 
 int main() {
-  std::cout << "Hello to my anus" << std::endl;
+  std::cout << "Hello to my pinus" << std::endl;
   std::cout << count(2, 3) << std::endl;
   std::cout << count(5, 60) << std::endl;
   std::cout << "pizda" << std::endl;
